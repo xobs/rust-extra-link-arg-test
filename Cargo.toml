@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "without-linker",
+    "attempt-linker",
+    "lib-maybe-link",
+]
+
+default-members = [
+    "without-linker",
+    "attempt-linker",
+]
